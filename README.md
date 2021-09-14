@@ -6,4 +6,4 @@ You only look once (YOLO) is a state-of-the-art, real-time object detection syst
 </br>
 <img src="image/Screenshot 2021-09-14 at 12.27.16 PM.png" />
 ## Here is my sample.
-<img src="image/Screenshot 2021-09-14 at 12.39.12 PM.png" />
+<img src="image/Screenshot 2021-09-14 at 12.39.12 PM.png" style="width:500px;height:600px;" >
